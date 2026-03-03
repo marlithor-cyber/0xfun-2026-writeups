@@ -44,6 +44,11 @@ pwn/67_revenge/*
 !pwn/67_revenge/README.md
 !pwn/67_revenge/solve.py
 !pwn/67_revenge/output.txt
+!pwn/bit_flips/
+pwn/bit_flips/*
+!pwn/bit_flips/README.md
+!pwn/bit_flips/solve.py
+!pwn/bit_flips/output.txt
 
 # Common generated files.
 __pycache__/

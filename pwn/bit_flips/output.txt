@@ -1,0 +1,2 @@
+$ python3 solve.py --local --dir /home/shadowbyte/Downloads/0xfun/pwn/bit_flips/bitflips_files
+0xfun{local_test_flag}
