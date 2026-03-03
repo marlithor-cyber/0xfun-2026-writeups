@@ -1,0 +1,14 @@
+$ printf '0xfun{local_test_flag}\n' > /tmp/flag
+$ python3 /home/shadowbyte/Downloads/0xfun/pwn/Warden/jail.py < /home/shadowbyte/Downloads/0xfun/crypto/pwn/Warden/solve.py
+╔════════════════════════════════════╗
+║       WARDEN JAIL v1.0             ║
+║  The Warden watches every syscall. ║
+║  But who watches the Warden?       ║
+╚════════════════════════════════════╝
+
+Enter your Python code (max 8192 bytes).
+Terminate with EOF (Ctrl+D).
+
+[*] Code accepted. Executing...
+
+0xfun{local_test_flag}

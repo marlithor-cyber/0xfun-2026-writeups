@@ -14,6 +14,7 @@ My writeups for 0xfun 2026 challenges.
 ## Pwn
 
 - [67 Revenge](./pwn/67_revenge/README.md)
+- [Warden](./pwn/Warden/README.md)
 - [bit_flips](./pwn/bit_flips/README.md)
 - [fridge](./pwn/fridge/README.md)
 - [phantom](./pwn/phantom/README.md)
