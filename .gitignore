@@ -1,0 +1,17 @@
+# Ignore everything by default in this workspace-style repo.
+*
+
+# Keep git metadata and top-level docs/config.
+!.gitignore
+!README.md
+
+# Keep writeup directories and selected files inside them.
+!90/
+90/*
+!90/README.md
+!90/solve.py
+!90/cipher.txt
+
+# Common generated files.
+__pycache__/
+*.pyc
