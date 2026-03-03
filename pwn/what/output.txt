@@ -1,0 +1,8 @@
+$ mkdir -p /tmp/what
+$ cp chall /tmp/what/chall
+$ chmod +x /tmp/what/chall
+$ printf '0xfun{local_test_flag}\n' > /tmp/what/flag.txt
+$ printf '4207664\n4198966\n' | /tmp/what/chall
+Show me what you GOT!
+Show me what you GOT! I want to see what you GOT!
+I like what you GOT! Take this: 0xfun{local_test_flag}

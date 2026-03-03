@@ -19,3 +19,4 @@ My writeups for 0xfun 2026 challenges.
 - [fridge](./pwn/fridge/README.md)
 - [phantom](./pwn/phantom/README.md)
 - [phantom_pwn](./pwn/phantom_pwn/README.md)
+- [what](./pwn/what/README.md)

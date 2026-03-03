@@ -69,6 +69,11 @@ pwn/Warden/*
 !pwn/Warden/solve.py
 !pwn/Warden/send.py
 !pwn/Warden/output.txt
+!pwn/what/
+pwn/what/*
+!pwn/what/README.md
+!pwn/what/solve.py
+!pwn/what/output.txt
 
 # Common generated files.
 __pycache__/
