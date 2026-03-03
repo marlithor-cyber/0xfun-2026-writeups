@@ -23,6 +23,10 @@ crypto/BitStorm/*
 crypto/fortune/*
 !crypto/fortune/README.md
 !crypto/fortune/solve.cpp
+!crypto/fortune_revenge/
+crypto/fortune_revenge/*
+!crypto/fortune_revenge/README.md
+!crypto/fortune_revenge/solve.py
 
 # Common generated files.
 __pycache__/
