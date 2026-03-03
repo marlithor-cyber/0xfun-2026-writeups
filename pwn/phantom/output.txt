@@ -1,0 +1,2 @@
+$ python3 solve.py /home/shadowbyte/Downloads/0xfun/pwn/phantom/phantom/initramfs.cpio.gz
+0xfun{phys1c4l_m3m0ry_c0rrupt10n_1s_g0d_m0d3}

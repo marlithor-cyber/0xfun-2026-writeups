@@ -53,6 +53,11 @@ pwn/bit_flips/*
 pwn/fridge/*
 !pwn/fridge/README.md
 !pwn/fridge/solve.py
+!pwn/phantom/
+pwn/phantom/*
+!pwn/phantom/README.md
+!pwn/phantom/solve.py
+!pwn/phantom/output.txt
 
 # Common generated files.
 __pycache__/
