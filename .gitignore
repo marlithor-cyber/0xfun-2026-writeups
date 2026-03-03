@@ -14,6 +14,11 @@ crypto/90/*
 !crypto/90/solve.py
 !crypto/90/cipher.txt
 !crypto/90/solve.png
+!crypto/BitStorm/
+crypto/BitStorm/*
+!crypto/BitStorm/README.md
+!crypto/BitStorm/solve.py
+!crypto/BitStorm/output.txt
 
 # Common generated files.
 __pycache__/
