@@ -27,6 +27,11 @@ crypto/fortune/*
 crypto/fortune_revenge/*
 !crypto/fortune_revenge/README.md
 !crypto/fortune_revenge/solve.py
+!crypto/Hawk_II/
+crypto/Hawk_II/*
+!crypto/Hawk_II/README.md
+!crypto/Hawk_II/solve.py
+!crypto/Hawk_II/output.txt
 
 # Common generated files.
 __pycache__/
