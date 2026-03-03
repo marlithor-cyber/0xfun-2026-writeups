@@ -37,6 +37,13 @@ crypto/meowel/*
 !crypto/meowel/README.md
 !crypto/meowel/solve.py
 !crypto/meowel/output.txt
+!pwn/
+pwn/*
+!pwn/67_revenge/
+pwn/67_revenge/*
+!pwn/67_revenge/README.md
+!pwn/67_revenge/solve.py
+!pwn/67_revenge/output.txt
 
 # Common generated files.
 __pycache__/

@@ -10,3 +10,7 @@ My writeups for 0xfun 2026 challenges.
 - [fortune_revenge](./crypto/fortune_revenge/README.md)
 - [Hawk_II](./crypto/Hawk_II/README.md)
 - [meowel](./crypto/meowel/README.md)
+
+## Pwn
+
+- [67 Revenge](./pwn/67_revenge/README.md)

