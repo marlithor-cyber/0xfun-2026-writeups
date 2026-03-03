@@ -17,3 +17,4 @@ My writeups for 0xfun 2026 challenges.
 - [bit_flips](./pwn/bit_flips/README.md)
 - [fridge](./pwn/fridge/README.md)
 - [phantom](./pwn/phantom/README.md)
+- [phantom_pwn](./pwn/phantom_pwn/README.md)

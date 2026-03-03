@@ -58,6 +58,11 @@ pwn/phantom/*
 !pwn/phantom/README.md
 !pwn/phantom/solve.py
 !pwn/phantom/output.txt
+!pwn/phantom_pwn/
+pwn/phantom_pwn/*
+!pwn/phantom_pwn/README.md
+!pwn/phantom_pwn/solve.py
+!pwn/phantom_pwn/exploit.c
 
 # Common generated files.
 __pycache__/
