@@ -32,6 +32,11 @@ crypto/Hawk_II/*
 !crypto/Hawk_II/README.md
 !crypto/Hawk_II/solve.py
 !crypto/Hawk_II/output.txt
+!crypto/meowel/
+crypto/meowel/*
+!crypto/meowel/README.md
+!crypto/meowel/solve.py
+!crypto/meowel/output.txt
 
 # Common generated files.
 __pycache__/
