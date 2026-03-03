@@ -4,4 +4,4 @@ My writeups for 0xfun 2026 challenges.
 
 ## Crypto
 
-- [Back in the 90's](./90/README.md)
+- [Back in the 90's](./crypto/90/README.md)

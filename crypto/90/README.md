@@ -3,10 +3,13 @@
 ## Files
 
 - `cipher.txt`
+- `solve.png`
 
 ## Solve
 
 The challenge title is the clue: the text is meant to be read as a 90-degree rotation.
+
+![Solve screenshot](./solve.png)
 
 The ciphertext is an `LSPK90 Clockwise` string, where each plaintext character is represented by a small ASCII-art fragment that looks correct once you mentally rotate it.
 
